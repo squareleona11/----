@@ -1,5 +1,7 @@
+원본 링크 https://www.op.gg/?hl=ko_KR
+
 OPGG 클론코딩 (https://aim-clone-opgg.netlify.app/)
-- 소환사명 입력시 더미데이터로 노출됨
+- 게임 api 를 가져오지 못해 소환사명 입력시 더미데이터로 노출됨
 
 ### 개요
 - UI 스타일은 `styled-components`를 사용해서 구현함
